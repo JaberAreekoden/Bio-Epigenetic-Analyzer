@@ -12,3 +12,4 @@ A Python-based tool designed to analyze the intersection of genetic data and lif
 1. Clone the repo:
    ```bash
    git clone [https://github.com/JaberAreekoden/Bio-Epigenetic-Analyzer.git](https://github.com/JaberAreekoden/Bio-Epigenetic-Analyzer.git)
+   
