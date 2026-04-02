@@ -1,13 +1,13 @@
-# Python virtual environment
+# Python environment
 venv/
-.env
+ENV/
+env/
 
-# Python bytecode and cache
+# Python cache
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
+*.pyd
 
 # macOS system files
 .DS_Store
-
-# Streamlit specific
-.streamlit/
